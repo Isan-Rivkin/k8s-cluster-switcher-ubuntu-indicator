@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=@/run_k8s_indicator.py"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=K8sSwitcher
